@@ -22,4 +22,5 @@ Store — консольное приложение для учёта склад
    - автоматический расчёт остатка
    - вывод остатков по всем товарам
 
+Пример работы программы:
    <img width="402" height="419" alt="image" src="https://github.com/user-attachments/assets/ae5acb2c-89b6-4f67-a177-dd319eda3d53" />
