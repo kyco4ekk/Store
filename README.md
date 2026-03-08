@@ -23,4 +23,6 @@ Store — консольное приложение для учёта склад
    - вывод остатков по всем товарам
 
 Структура базы данных:
+
+
 <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/ba602403-247a-4cc7-901c-a05719e84857" />
